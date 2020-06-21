@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Xbox",
+    "price": 0,
+    "catogory": "Electronic"
+  },
+  {
+    "name": "Marie Gold",
+    "price": 0,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "CINTHOL SOAP",
+    "price": 100,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "CORN FLAKES",
+    "price": 50,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "SPINACH",
+    "price": 125,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "RED CHILLI",
+    "price": 50,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "T-SHIRT",
+    "price": 100,
+    "catogory": "CLOTHING"
+  },
+  {
+    "name": "PILLOWS",
+    "price": 300,
+    "catogory": "HOME SUPPLIES"
+  },
+  {
+    "name": "CHICKEN BIRYANI",
+    "price": 250,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "CHICKEN MASALA",
+    "price": 620,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "BUTTER NAAN",
+    "price": 160,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "BOURNVITA",
+    "price": 250,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "T-SHIRT",
+    "price": 400,
+    "catogory": "Fashion"
+  },
+  {
+    "name": "GK BOOK",
+    "price": 500,
+    "catogory": "BOOKS"
+  },
+  {
+    "name": "BP MONITOR",
+    "price": 900,
+    "catogory": "HEALTH CARE"
+  },
+  {
+    "name": "BP MONI TOR",
+    "price": 900,
+    "catogory": "HEALTH CARE"
+  },
+  {
+    "name": "PEN SET",
+    "price": 200,
+    "catogory": "STATIONARY"
+  },
+  {
+    "name": "FAN REMOTE",
+    "price": 200,
+    "catogory": "ELECTRONIC"
+  },
+  {
+    "name": "GUITAR STRIN6",
+    "price": 200,
+    "catogory": "MUSICAL INSTRUMENTS"
+  },
+  {
+    "name": "LED BULB",
+    "price": 100,
+    "catogory": "HOME SUPPLIES"
+  },
+  {
+    "name": "HEADSET",
+    "price": 950,
+    "catogory": "ELECTRONIC"
+  },
+  {
+    "name": "PEDIGREE",
+    "price": 500,
+    "catogory": "PET SUPPLIES"
+  },
+  {
+    "name": "ML BOOK",
+    "price": 800,
+    "catogory": "BOOKS"
+  },
+  {
+    "name": "BASMATI RICE",
+    "price": 150,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "JEANS",
+    "price": 800,
+    "catogory": "CLOTHING"
+  },
+  {
+    "name": "PYTHON BOOK",
+    "price": 450,
+    "catogory": "BOOKS"
+  },
+  {
+    "name": "PPE KIT",
+    "price": 300,
+    "catogory": "INDUSTRIAL SUPPLIES"
+  },
+  {
+    "name": "CHAIR",
+    "price": 500,
+    "catogory": "FURNITURE"
+  },
+  {
+    "name": "DETTOL",
+    "price": 100,
+    "catogory": "HEALTH CARE"
+  },
+  {
+    "name": "SHOE",
+    "price": 900,
+    "catogory": "ACCESSORIES"
+  },
+  {
+    "name": "STEAM IRON",
+    "price": 900,
+    "catogory": "HOME SUPPLIES"
+  },
+  {
+    "name": "URAL DAL",
+    "price": 400,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "CUPS SET",
+    "price": 300,
+    "catogory": "KITCHEN"
+  },
+  {
+    "name": "WHEAT BREAD",
+    "price": 160,
+    "catogory": "FOOD PRODUCTS"
+  },
+  {
+    "name": "RAT KILLER",
+    "price": 89,
+    "catogory": "SELF CARE"
+  },
+  {
+    "name": "TABLE COVER",
+    "price": 200,
+    "catogory": "HOME SUPPLIES"
+  }
+]

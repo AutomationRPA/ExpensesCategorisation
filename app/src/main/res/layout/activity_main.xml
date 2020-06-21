@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/text_display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/capture_bill_btn"
+        android:layout_marginEnd="-208dp"
+        android:elegantTextHeight="true"
+        android:hint="Input Bill "
+        android:maxLines="30"
+        android:scrollbars="vertical"
+        android:text=""
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/capture_bill_btn"
+        android:layout_width="203dp"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="208dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Scan Receipt"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="17dp" />
+
+    <Button
+        android:id="@+id/pickbillfromgallary_btn"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+
+        android:background="@color/design_default_color_secondary"
+        android:text="Import from Gallery"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="17dp" />
+
+    <Button
+        android:id="@+id/getItemsFromText_btn"
+        android:layout_width="203dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/capture_bill_btn"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="208dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/design_default_color_error"
+        android:text="Get Products"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/spendAnalytics"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="48dp"
+        android:background="#12FF07"
+        android:text="Analyse Spends"
+        android:visibility="visible" />
+
+</RelativeLayout>
